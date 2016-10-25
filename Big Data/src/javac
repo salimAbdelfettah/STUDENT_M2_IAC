@@ -1,0 +1,1 @@
+javac -classpath /home/salimo/Documents/hadoop-1.2.1/hadoop-core-1.2.1.jar WordCount.java

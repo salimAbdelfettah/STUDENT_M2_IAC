@@ -1,0 +1,16 @@
+echo ----------+----------+----------+----------+----------
+echo ...
+$my_dir/bin/hadoop dfs -rm --interactive=never $my_fsd/MR1/input/*
+echo ----------+----------+----------+----------+----------
+echo ...
+$my_dir/bin/hadoop dfs -rm --interactive=never $my_fsd/MR3/MR31/input/*
+echo ----------+----------+----------+----------+----------
+echo ...
+$my_dir/bin/hadoop dfs -rm --interactive=never $my_fsd/MR3/MR32/input/*
+echo ----------+----------+----------+----------+----------
+echo ...
+$my_dir/bin/hadoop dfs -rm --interactive=never $my_fsd/MR4/MR41/input/*
+echo ----------+----------+----------+----------+----------
+echo ...
+$my_dir/bin/hadoop dfs -rm --interactive=never $my_fsd/MR4/MR42/input/*
+echo ----------+----------+----------+----------+---------

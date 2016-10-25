@@ -1,0 +1,13 @@
+echo ----------+----------+----------+----------+----------
+echo ...
+javac -classpath $my_dir/hadoop-core-1.2.1.jar $my_dir/rdf_stats/MR3/MR31/MR31.java
+echo ----------+----------+----------+----------+-------------
+echo ...
+javac -classpath $my_dir/hadoop-core-1.2.1.jar $my_dir/rdf_stats/MR3/MR32/MR32.java
+echo ----------+----------+----------+----------+----------
+echo ...
+jar -cvf $my_jars_dir/MR31.jar -C $my_dir/rdf_stats/MR3/MR31/ .
+echo ----------+----------+----------+----------+----------
+echo ...
+jar -cvf $my_jars_dir/MR32.jar -C $my_dir/rdf_stats/MR3/MR32/ .
+echo ----------+----------+----------+----------+----------
