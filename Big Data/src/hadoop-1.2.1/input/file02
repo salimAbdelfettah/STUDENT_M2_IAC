@@ -1,0 +1,200 @@
+<http://dbpedia.org/resource/Ars%C3%A8ne_Lupin> <http://dbpedia.org/ontology/colorChart> "roman"@fr .
+<http://dbpedia.org/resource/Ars%C3%A8ne_Lupin> <http://dbpedia.org/ontology/name> "Ars\u00E8ne Lupin"@fr .
+<http://dbpedia.org/resource/Ars%C3%A8ne_Lupin> <http://dbpedia.org/ontology/origin> <http://dbpedia.org/resource/Blois> .
+<http://dbpedia.org/resource/Ars%C3%A8ne_Lupin> <http://dbpedia.org/ontology/activity> "Gentleman cambrioleur"@fr .
+<http://dbpedia.org/resource/Ars%C3%A8ne_Lupin> <http://dbpedia.org/ontology/creator> <http://dbpedia.org/resource/Maurice_Leblanc> .
+<http://dbpedia.org/resource/Ars%C3%A8ne_Lupin> <http://dbpedia.org/ontology/performer> <http://dbpedia.org/resource/Robert_Lamoureux> .
+<http://dbpedia.org/resource/Ars%C3%A8ne_Lupin> <http://dbpedia.org/ontology/performer> <http://dbpedia.org/resource/Georges_Descri%C3%A8res> .
+<http://dbpedia.org/resource/Ars%C3%A8ne_Lupin> <http://dbpedia.org/ontology/performer> <http://dbpedia.org/resource/Jean-Claude_Brialy> .
+<http://dbpedia.org/resource/Ars%C3%A8ne_Lupin> <http://dbpedia.org/ontology/performer> <http://dbpedia.org/resource/Romain_Duris> .
+<http://dbpedia.org/resource/Ars%C3%A8ne_Lupin> <http://dbpedia.org/ontology/movie> <http://dbpedia.org/resource/The_Adventures_of_Ars%C3%A8ne_Lupin> .
+<http://dbpedia.org/resource/Ars%C3%A8ne_Lupin> <http://dbpedia.org/ontology/movie> <http://dbpedia.org/resource/Ars%C3%A8ne_Lupin_(2004_film)> .
+<http://dbpedia.org/resource/Ars%C3%A8ne_Lupin> <http://dbpedia.org/ontology/novel> <http://dbpedia.org/resource/Ars%C3%A8ne_Lupin,_Gentleman_Burglar> .
+<http://dbpedia.org/resource/Ars%C3%A8ne_Lupin> <http://dbpedia.org/ontology/novel> <http://dbpedia.org/resource/The_Hollow_Needle> .
+<http://dbpedia.org/resource/Ars%C3%A8ne_Lupin> <http://dbpedia.org/ontology/tvShow> <http://dbpedia.org/resource/Ars%C3%A8ne_Lupin_(TV_series)> .
+<http://dbpedia.org/resource/Ars%C3%A8ne_Lupin> <http://dbpedia.org/ontology/tvShow> <http://dbpedia.org/resource/Night_Hood> .
+<http://dbpedia.org/resource/Ars%C3%A8ne_Lupin> <http://dbpedia.org/ontology/firstAppearance> <http://dbpedia.org/resource/1906> .
+<http://dbpedia.org/resource/Arc_de_Triomphe> <http://xmlns.com/foaf/0.1/name> "Arc de triomphe de Paris"@fr .
+<http://dbpedia.org/resource/Arc_de_Triomphe> <http://dbpedia.org/ontology/district> <http://dbpedia.org/resource/Paris> .
+<http://dbpedia.org/resource/Arc_de_Triomphe> <http://dbpedia.org/ontology/region> <http://dbpedia.org/resource/%C3%8Ele-de-France> .
+<http://dbpedia.org/resource/Arc_de_Triomphe> <http://dbpedia.org/ontology/yearOfConstruction> "1806"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Arc_de_Triomphe> <http://dbpedia.org/ontology/type> <http://dbpedia.org/resource/Triumphal_arch> .
+<http://dbpedia.org/resource/Arc_de_Triomphe> <http://dbpedia.org/ontology/architect> <http://dbpedia.org/resource/Jean_Chalgrin> .
+<http://dbpedia.org/resource/Arc_de_Triomphe> <http://dbpedia.org/ontology/height> "50.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Arc_de_Triomphe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/gml/_Feature> .
+<http://dbpedia.org/resource/Arc_de_Triomphe> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "48.873689"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://dbpedia.org/resource/Arc_de_Triomphe> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "2.295028"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://dbpedia.org/resource/Arc_de_Triomphe> <http://www.georss.org/georss/point> "48.873689 2.295028"@fr .
+<http://dbpedia.org/resource/Austria> <http://dbpedia.org/ontology/frenchName> "R\u00E9publique d\u2019Autriche"@fr .
+<http://dbpedia.org/resource/Austria> <http://xmlns.com/foaf/0.1/name> "Republik \u00D6sterreich"@fr .
+<http://dbpedia.org/resource/Austria> <http://dbpedia.org/ontology/flag> "Flag of Austria.svg"@fr .
+<http://dbpedia.org/resource/Austria> <http://dbpedia.org/ontology/flagLink> "Drapeau de l'Autriche"@fr .
+<http://dbpedia.org/resource/Austria> <http://dbpedia.org/ontology/blazon> "Austria Bundesadler 2.svg"@fr .
+<http://dbpedia.org/resource/Austria> <http://dbpedia.org/ontology/blazonLink> "Armoiries de l'Autriche"@fr .
+<http://dbpedia.org/resource/Austria> <http://dbpedia.org/ontology/motto> "Aucune"@fr .
+<http://dbpedia.org/resource/Austria> <http://dbpedia.org/ontology/officialLanguage> <http://dbpedia.org/resource/German_language> .
+<http://dbpedia.org/resource/Austria> <http://dbpedia.org/ontology/capital> <http://dbpedia.org/resource/Vienna> .
+<http://dbpedia.org/resource/Austria> <http://dbpedia.org/ontology/capital> <http://dbpedia.org/resource/Vienna> .
+<http://dbpedia.org/resource/Austria> <http://dbpedia.org/ontology/cityLink> "Villes d'Autriche"@fr .
+<http://dbpedia.org/resource/Austria> <http://dbpedia.org/ontology/largestCity> <http://dbpedia.org/resource/Vienna> .
+<http://dbpedia.org/resource/Austria> <http://dbpedia.org/ontology/governmentType> <http://dbpedia.org/resource/Republic> .
+<http://dbpedia.org/resource/Austria> <http://dbpedia.org/ontology/leaderTitle> "Pr\u00E9sident f\u00E9d\u00E9ral"@fr .
+<http://dbpedia.org/resource/Austria> <http://dbpedia.org/ontology/leaderName> <http://dbpedia.org/resource/Heinz_Fischer> .
+<http://dbpedia.org/resource/Austria> <http://dbpedia.org/ontology/leaderTitle> "Chancelier f\u00E9d\u00E9ral"@fr .
+<http://dbpedia.org/resource/Austria> <http://dbpedia.org/ontology/leaderName> <http://dbpedia.org/resource/Werner_Faymann> .
+<http://dbpedia.org/resource/Austria> <http://dbpedia.org/ontology/areaRank> "112"@fr .
+<http://dbpedia.org/resource/Austria> <http://dbpedia.org/ontology/area> "8.3878E10"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Austria> <http://dbpedia.org/ontology/percentageOfAreaWater> "1.7"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://dbpedia.org/resource/Austria> <http://dbpedia.org/ontology/populationTotalRanking> "93"^^<http://www.w3.org/2001/XMLSchema#positiveInteger> .
+<http://dbpedia.org/resource/Austria> <http://dbpedia.org/ontology/populationTotal> "8460390"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Austria> <http://dbpedia.org/ontology/populationYear> "2012"@fr .
+<http://dbpedia.org/resource/Austria> <http://dbpedia.org/ontology/peopleName> "Autrichien, Autrichienne/ \u00D6sterreicher, \u00D6sterreicherin (en allemand)"@fr .
+<http://dbpedia.org/resource/Austria> <http://dbpedia.org/ontology/purchasingPowerParityYear> "2011"@fr .
+<http://dbpedia.org/resource/Austria> <http://dbpedia.org/ontology/purchasingPowerParity> "425,1 milliards de $"@fr .
+<http://dbpedia.org/resource/Austria> <http://dbpedia.org/ontology/humanDevelopmentIndex> "0.851"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://dbpedia.org/resource/Austria> <http://dbpedia.org/ontology/currency> <http://dbpedia.org/resource/Euro> .
+<http://dbpedia.org/resource/Austria> <http://dbpedia.org/ontology/currencyCode> "EUR"@fr .
+<http://dbpedia.org/resource/Austria> <http://dbpedia.org/ontology/timeZone> <http://dbpedia.org/resource/Central_European_Time> .
+<http://dbpedia.org/resource/Austria> <http://dbpedia.org/ontology/anthem> <http://dbpedia.org/resource/Land_der_Berge,_Land_am_Strome> .
+<http://dbpedia.org/resource/Austria> <http://dbpedia.org/ontology/topLevelDomain> ".at"@fr .
+<http://dbpedia.org/resource/Austria> <http://dbpedia.org/ontology/phonePrefix> "43"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Afghanistan> <http://dbpedia.org/ontology/frenchName> "R\u00E9publique islamique d'Afghanistan"@fr .
+<http://dbpedia.org/resource/Afghanistan> <http://xmlns.com/foaf/0.1/name> "\u062F \u0623\u0641\u063A\u0627\u0646\u0633\u062A\u0627\u0646 \u0627\u0633\u0644\u0627\u0645\u064A \u062C\u0645\u0647\u0648\u0631\u06CC\u062A"@fr .
+<http://dbpedia.org/resource/Afghanistan> <http://xmlns.com/foaf/0.1/name> "\u062C\u0645\u0647\u0648\u0631\u06CC \u0627\u0633\u0644\u0627\u0645\u06CC \u0627\u0641\u063A\u0627\u0646\u0633\u062A\u0627\u0646"@fr .
+<http://dbpedia.org/resource/Afghanistan> <http://dbpedia.org/ontology/wordBefore> "du"@fr .
+<http://dbpedia.org/resource/Afghanistan> <http://dbpedia.org/ontology/flag> "Flag of Afghanistan.svg"@fr .
+<http://dbpedia.org/resource/Afghanistan> <http://dbpedia.org/ontology/flagLink> "Drapeau de l'Afghanistan"@fr .
+<http://dbpedia.org/resource/Afghanistan> <http://dbpedia.org/ontology/blazon> "Emblem_of_Afghanistan.svg"@fr .
+<http://dbpedia.org/resource/Afghanistan> <http://dbpedia.org/ontology/blazonLink> "Armoiries de l'Afghanistan"@fr .
+<http://dbpedia.org/resource/Afghanistan> <http://dbpedia.org/ontology/motto> "Dieu est le plus grand. Il n'y a pas d'autre dieu qu'Allah et Mahomet est son proph\u00E8te."@fr .
+<http://dbpedia.org/resource/Afghanistan> <http://dbpedia.org/ontology/officialLanguage> <http://dbpedia.org/resource/Pashto_language> .
+<http://dbpedia.org/resource/Afghanistan> <http://dbpedia.org/ontology/capital> <http://dbpedia.org/resource/Kabul> .
+<http://dbpedia.org/resource/Afghanistan> <http://dbpedia.org/ontology/cityLink> "Villes d'Afghanistan"@fr .
+<http://dbpedia.org/resource/Afghanistan> <http://dbpedia.org/ontology/largestCity> <http://dbpedia.org/resource/Kabul> .
+<http://dbpedia.org/resource/Afghanistan> <http://dbpedia.org/ontology/governmentType> <http://dbpedia.org/resource/Islamic_republic> .
+<http://dbpedia.org/resource/Afghanistan> <http://dbpedia.org/ontology/leaderTitle> "Pr\u00E9sident de la R\u00E9publique"@fr .
+<http://dbpedia.org/resource/Afghanistan> <http://dbpedia.org/ontology/leaderName> <http://dbpedia.org/resource/Hamid_Karzai> .
+<http://dbpedia.org/resource/Afghanistan> <http://dbpedia.org/ontology/leaderTitle> "Vice-pr\u00E9sident"@fr .
+<http://dbpedia.org/resource/Afghanistan> <http://dbpedia.org/ontology/leaderName> <http://dbpedia.org/resource/Marshal> .
+<http://dbpedia.org/resource/Afghanistan> <http://dbpedia.org/ontology/areaRank> "42"@fr .
+<http://dbpedia.org/resource/Afghanistan> <http://dbpedia.org/ontology/area> "6.52E11"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Afghanistan> <http://dbpedia.org/ontology/populationTotalRanking> "38"^^<http://www.w3.org/2001/XMLSchema#positiveInteger> .
+<http://dbpedia.org/resource/Afghanistan> <http://dbpedia.org/ontology/populationTotal> "30419928"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Afghanistan> <http://dbpedia.org/ontology/populationYear> "2011"@fr .
+<http://dbpedia.org/resource/Afghanistan> <http://dbpedia.org/ontology/peopleName> "Afghan, afghane"@fr .
+<http://dbpedia.org/resource/Afghanistan> <http://dbpedia.org/ontology/humanDevelopmentIndex> "0.374"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://dbpedia.org/resource/Afghanistan> <http://dbpedia.org/ontology/humanDevelopmentIndexRank> "175"@fr .
+<http://dbpedia.org/resource/Afghanistan> <http://dbpedia.org/ontology/currency> <http://dbpedia.org/resource/Afghan_afghani> .
+<http://dbpedia.org/resource/Afghanistan> <http://dbpedia.org/ontology/currencyCode> "AFN"@fr .
+<http://dbpedia.org/resource/Afghanistan> <http://dbpedia.org/ontology/anthem> <http://dbpedia.org/resource/Afghan_National_Anthem> .
+<http://dbpedia.org/resource/Afghanistan> <http://dbpedia.org/ontology/topLevelDomain> ".af"@fr .
+<http://dbpedia.org/resource/Afghanistan> <http://dbpedia.org/ontology/phonePrefix> "93"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Auvergne_(region)> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/France> .
+<http://dbpedia.org/resource/Auvergne_(region)> <http://xmlns.com/foaf/0.1/name> "Auvergne"@fr .
+<http://dbpedia.org/resource/Auvergne_(region)> <http://dbpedia.org/ontology/blazon> "AuvergneVK.svg"@fr .
+<http://dbpedia.org/resource/Auvergne_(region)> <http://dbpedia.org/ontology/blazonCaption> "Blason de l'Auvergne"@fr .
+<http://dbpedia.org/resource/Auvergne_(region)> <http://dbpedia.org/ontology/flag> "R\u00E9gion Auvergne (logo).svg"@fr .
+<http://dbpedia.org/resource/Auvergne_(region)> <http://dbpedia.org/ontology/flagCaption> "Conseil r\u00E9gional d'Auvergne"@fr .
+<http://dbpedia.org/resource/Auvergne_(region)> <http://dbpedia.org/ontology/prefecture> <http://dbpedia.org/resource/Clermont-Ferrand> .
+<http://dbpedia.org/resource/Auvergne_(region)> <http://dbpedia.org/ontology/department> <http://dbpedia.org/resource/Allier> .
+<http://dbpedia.org/resource/Auvergne_(region)> <http://dbpedia.org/ontology/department> <http://dbpedia.org/resource/Cantal> .
+<http://dbpedia.org/resource/Auvergne_(region)> <http://dbpedia.org/ontology/department> <http://dbpedia.org/resource/Haute-Loire> .
+<http://dbpedia.org/resource/Auvergne_(region)> <http://dbpedia.org/ontology/department> <http://dbpedia.org/resource/Puy-de-D%C3%B4me> .
+<http://dbpedia.org/resource/Auvergne_(region)> <http://dbpedia.org/ontology/regionalPrefecture> "Moulins"@fr .
+<http://dbpedia.org/resource/Auvergne_(region)> <http://dbpedia.org/ontology/regionalPrefecture> "Aurillac"@fr .
+<http://dbpedia.org/resource/Auvergne_(region)> <http://dbpedia.org/ontology/regionalPrefecture> "Le Puy-en-Velay"@fr .
+<http://dbpedia.org/resource/Auvergne_(region)> <http://dbpedia.org/ontology/regionalPrefecture> "Clermont-Ferrand"@fr .
+<http://dbpedia.org/resource/Auvergne_(region)> <http://dbpedia.org/ontology/regionalCouncil> "Conseil r\u00E9gional d'Auvergne"@fr .
+<http://dbpedia.org/resource/Auvergne_(region)> <http://dbpedia.org/ontology/president> <http://dbpedia.org/resource/Ren%C3%A9_Souchon> .
+<http://dbpedia.org/resource/Auvergne_(region)> <http://dbpedia.org/ontology/mandate> "2010-2015"@fr .
+<http://dbpedia.org/resource/Auvergne_(region)> <http://xmlns.com/foaf/0.1/homepage> <http://www.auvergne.fr> .
+<http://dbpedia.org/resource/Auvergne_(region)> <http://dbpedia.org/ontology/populationTotal> "1347387"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Auvergne_(region)> <http://dbpedia.org/ontology/populationYear> "2010"@fr .
+<http://dbpedia.org/resource/Auvergne_(region)> <http://dbpedia.org/ontology/peopleName> "Auvergnate, Auvergnat"@fr .
+<http://dbpedia.org/resource/Auvergne_(region)> <http://dbpedia.org/ontology/language> <http://dbpedia.org/resource/Occitan_language> .
+<http://dbpedia.org/resource/Auvergne_(region)> <http://dbpedia.org/ontology/blazon> "AuvergneVK.svg"@fr .
+<http://dbpedia.org/resource/Auvergne_(region)> <http://dbpedia.org/ontology/blazonCaption> "Blason de l'Auvergne"@fr .
+<http://dbpedia.org/resource/Aisne> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/France> .
+<http://dbpedia.org/resource/Aisne> <http://dbpedia.org/ontology/region> <http://dbpedia.org/resource/Picardy> .
+<http://dbpedia.org/resource/Aisne> <http://dbpedia.org/ontology/inseeCode> "2"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Aisne> <http://dbpedia.org/ontology/prefecture> <http://dbpedia.org/resource/Laon> .
+<http://dbpedia.org/resource/Aisne> <http://dbpedia.org/ontology/subprefecture> <http://dbpedia.org/resource/Ch%C3%A2teau-Thierry> .
+<http://dbpedia.org/resource/Aisne> <http://dbpedia.org/ontology/subprefecture> <http://dbpedia.org/resource/Saint-Quentin,_Aisne> .
+<http://dbpedia.org/resource/Aisne> <http://dbpedia.org/ontology/subprefecture> <http://dbpedia.org/resource/Soissons> .
+<http://dbpedia.org/resource/Aisne> <http://dbpedia.org/ontology/subprefecture> <http://dbpedia.org/resource/Vervins> .
+<http://dbpedia.org/resource/Aisne> <http://dbpedia.org/ontology/populationTotal> "540508"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Aisne> <http://dbpedia.org/ontology/canton> <http://dbpedia.org/resource/Cantons_of_the_Aisne_department> .
+<http://dbpedia.org/resource/Aisne> <http://dbpedia.org/ontology/numberOfSettlement> "816"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Aisne> <http://dbpedia.org/ontology/president> <http://dbpedia.org/resource/Yves_Daudigny> .
+<http://dbpedia.org/resource/Allier> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/France> .
+<http://dbpedia.org/resource/Allier> <http://xmlns.com/foaf/0.1/name> "Allier"@fr .
+<http://dbpedia.org/resource/Allier> <http://dbpedia.org/ontology/region> <http://dbpedia.org/resource/Auvergne_(region)> .
+<http://dbpedia.org/resource/Allier> <http://dbpedia.org/ontology/inseeCode> "3"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Allier> <http://dbpedia.org/ontology/prefecture> <http://dbpedia.org/resource/Moulins,_Allier> .
+<http://dbpedia.org/resource/Allier> <http://dbpedia.org/ontology/subprefecture> <http://dbpedia.org/resource/Montlu%C3%A7on> .
+<http://dbpedia.org/resource/Allier> <http://dbpedia.org/ontology/subprefecture> <http://dbpedia.org/resource/Vichy> .
+<http://dbpedia.org/resource/Allier> <http://dbpedia.org/ontology/populationTotal> "342908"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Allier> <http://dbpedia.org/ontology/populationYear> "2010"@fr .
+<http://dbpedia.org/resource/Allier> <http://dbpedia.org/ontology/canton> <http://dbpedia.org/resource/Cantons_of_the_Allier_department> .
+<http://dbpedia.org/resource/Allier> <http://dbpedia.org/ontology/numberOfSettlement> "320"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Alpes-de-Haute-Provence> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/France> .
+<http://dbpedia.org/resource/Alpes-de-Haute-Provence> <http://dbpedia.org/ontology/region> <http://dbpedia.org/resource/Provence-Alpes-C%C3%B4te_d'Azur> .
+<http://dbpedia.org/resource/Alpes-de-Haute-Provence> <http://dbpedia.org/ontology/inseeCode> "4"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Alpes-de-Haute-Provence> <http://dbpedia.org/ontology/prefecture> <http://dbpedia.org/resource/Digne-les-Bains> .
+<http://dbpedia.org/resource/Alpes-de-Haute-Provence> <http://dbpedia.org/ontology/subprefecture> <http://dbpedia.org/resource/Barcelonnette> .
+<http://dbpedia.org/resource/Alpes-de-Haute-Provence> <http://dbpedia.org/ontology/subprefecture> <http://dbpedia.org/resource/Castellane> .
+<http://dbpedia.org/resource/Alpes-de-Haute-Provence> <http://dbpedia.org/ontology/subprefecture> <http://dbpedia.org/resource/Forcalquier> .
+<http://dbpedia.org/resource/Alpes-de-Haute-Provence> <http://dbpedia.org/ontology/populationTotal> "160149"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Alpes-de-Haute-Provence> <http://dbpedia.org/ontology/district> <http://dbpedia.org/resource/List_of_Deputies_from_Alpes-de-Haute-Provence> .
+<http://dbpedia.org/resource/Alpes-de-Haute-Provence> <http://dbpedia.org/ontology/canton> <http://dbpedia.org/resource/Cantons_of_the_Alpes-de-Haute-Provence_department> .
+<http://dbpedia.org/resource/Alpes-de-Haute-Provence> <http://dbpedia.org/ontology/numberOfSettlement> "200"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Ard%C3%A8che> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/France> .
+<http://dbpedia.org/resource/Ard%C3%A8che> <http://dbpedia.org/ontology/region> <http://dbpedia.org/resource/Rh%C3%B4ne-Alpes> .
+<http://dbpedia.org/resource/Ard%C3%A8che> <http://dbpedia.org/ontology/inseeCode> "7"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Ard%C3%A8che> <http://dbpedia.org/ontology/prefecture> <http://dbpedia.org/resource/Privas> .
+<http://dbpedia.org/resource/Ard%C3%A8che> <http://dbpedia.org/ontology/subprefecture> <http://dbpedia.org/resource/Largenti%C3%A8re> .
+<http://dbpedia.org/resource/Ard%C3%A8che> <http://dbpedia.org/ontology/subprefecture> <http://dbpedia.org/resource/Tournon-sur-Rh%C3%B4ne> .
+<http://dbpedia.org/resource/Ard%C3%A8che> <http://dbpedia.org/ontology/populationTotal> "315090"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Ard%C3%A8che> <http://dbpedia.org/ontology/canton> <http://dbpedia.org/resource/Cantons_of_the_Ard%C3%A8che_department> .
+<http://dbpedia.org/resource/Ard%C3%A8che> <http://dbpedia.org/ontology/numberOfSettlement> "339"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Ari%C3%A8ge> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/France> .
+<http://dbpedia.org/resource/Ari%C3%A8ge> <http://dbpedia.org/ontology/region> <http://dbpedia.org/resource/Midi-Pyr%C3%A9n%C3%A9es> .
+<http://dbpedia.org/resource/Ari%C3%A8ge> <http://dbpedia.org/ontology/inseeCode> "9"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Ari%C3%A8ge> <http://dbpedia.org/ontology/prefecture> <http://dbpedia.org/resource/Foix> .
+<http://dbpedia.org/resource/Ari%C3%A8ge> <http://dbpedia.org/ontology/subprefecture> <http://dbpedia.org/resource/Pamiers> .
+<http://dbpedia.org/resource/Ari%C3%A8ge> <http://dbpedia.org/ontology/subprefecture> <http://dbpedia.org/resource/Saint-Girons,_Ari%C3%A8ge> .
+<http://dbpedia.org/resource/Ari%C3%A8ge> <http://dbpedia.org/ontology/populationTotal> "152038"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Ari%C3%A8ge> <http://dbpedia.org/ontology/canton> <http://dbpedia.org/resource/Cantons_of_the_Ari%C3%A8ge_department> .
+<http://dbpedia.org/resource/Ari%C3%A8ge> <http://dbpedia.org/ontology/numberOfSettlement> "332"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Alpes-Maritimes> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/France> .
+<http://dbpedia.org/resource/Alpes-Maritimes> <http://dbpedia.org/ontology/region> <http://dbpedia.org/resource/Provence-Alpes-C%C3%B4te_d'Azur> .
+<http://dbpedia.org/resource/Alpes-Maritimes> <http://dbpedia.org/ontology/inseeCode> "6"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Alpes-Maritimes> <http://dbpedia.org/ontology/prefecture> <http://dbpedia.org/resource/Nice> .
+<http://dbpedia.org/resource/Alpes-Maritimes> <http://dbpedia.org/ontology/subprefecture> <http://dbpedia.org/resource/Grasse> .
+<http://dbpedia.org/resource/Alpes-Maritimes> <http://dbpedia.org/ontology/populationTotal> "1078729"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Alpes-Maritimes> <http://dbpedia.org/ontology/canton> <http://dbpedia.org/resource/Cantons_of_the_Alpes-Maritimes_department> .
+<http://dbpedia.org/resource/Alpes-Maritimes> <http://dbpedia.org/ontology/numberOfSettlement> "163"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Alpes-Maritimes> <http://dbpedia.org/ontology/president> <http://dbpedia.org/resource/%C3%89ric_Ciotti> .
+<http://dbpedia.org/resource/Aube> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/France> .
+<http://dbpedia.org/resource/Aube> <http://dbpedia.org/ontology/region> <http://dbpedia.org/resource/Champagne-Ardenne> .
+<http://dbpedia.org/resource/Aube> <http://dbpedia.org/ontology/inseeCode> "10"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Aube> <http://dbpedia.org/ontology/prefecture> <http://dbpedia.org/resource/Troyes> .
+<http://dbpedia.org/resource/Aube> <http://dbpedia.org/ontology/subprefecture> <http://dbpedia.org/resource/Bar-sur-Aube> .
+<http://dbpedia.org/resource/Aube> <http://dbpedia.org/ontology/subprefecture> <http://dbpedia.org/resource/Nogent-sur-Seine> .
+<http://dbpedia.org/resource/Aube> <http://dbpedia.org/ontology/populationTotal> "303327"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Aube> <http://dbpedia.org/ontology/canton> <http://dbpedia.org/resource/Cantons_of_the_Aube_department> .
+<http://dbpedia.org/resource/Aube> <http://dbpedia.org/ontology/numberOfSettlement> "433"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Aube> <http://dbpedia.org/ontology/president> <http://dbpedia.org/resource/Philippe_Adnot> .
+<http://dbpedia.org/resource/Aude> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/France> .
+<http://dbpedia.org/resource/Aude> <http://dbpedia.org/ontology/region> <http://dbpedia.org/resource/Languedoc-Roussillon> .
+<http://dbpedia.org/resource/Aude> <http://dbpedia.org/ontology/inseeCode> "11"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Aude> <http://dbpedia.org/ontology/prefecture> <http://dbpedia.org/resource/Carcassonne> .
+<http://dbpedia.org/resource/Aude> <http://dbpedia.org/ontology/subprefecture> <http://dbpedia.org/resource/Limoux> .
+<http://dbpedia.org/resource/Aude> <http://dbpedia.org/ontology/subprefecture> <http://dbpedia.org/resource/Narbonne> .
+<http://dbpedia.org/resource/Aude> <http://dbpedia.org/ontology/populationTotal> "356467"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Aude> <http://dbpedia.org/ontology/canton> <http://dbpedia.org/resource/Cantons_of_the_Aude_department> .
+<http://dbpedia.org/resource/Aude> <http://dbpedia.org/ontology/numberOfSettlement> "438"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Aveyron> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/France> .
+<http://dbpedia.org/resource/Aveyron> <http://dbpedia.org/ontology/flag> "AveyronFlag.gif"@fr .
+<http://dbpedia.org/resource/Aveyron> <http://dbpedia.org/ontology/region> <http://dbpedia.org/resource/Midi-Pyr%C3%A9n%C3%A9es> .
+<http://dbpedia.org/resource/Aveyron> <http://dbpedia.org/ontology/inseeCode> "12"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
